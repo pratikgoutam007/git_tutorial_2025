@@ -7,3 +7,5 @@ This is a new file!!! editing the file now
 4th edit from local repo
 
 5th edit from GH again
+
+6th edit from GUI
